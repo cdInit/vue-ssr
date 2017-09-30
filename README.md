@@ -1,5 +1,5 @@
 # vue-ssr
 
-> A Vue.js project
+> A Vue.js project~
 
 ## 
